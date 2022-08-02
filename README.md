@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**Liillyan/Liillyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Olá Olá! eu sou Lillyan
+##
+<div style="display: inline_block"><br>
+</div>
 
-Here are some ideas to get you started:
+<head> <b>Estudante de programação pela {reprograma}, formada em Ciências Contábes, porem em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
+<b> </head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+</div>
+
+<div align="center">
+  <head> <b>Entre em contato comigo: </b> </head>
+  <div style="display: inline_block"><br>
+</div>
+
+<div align="center">
+  <a href="https://https://www.instagram.com/lillyanr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lillyanr95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/lillyan-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  <div style="display: inline_block"><br>
+</div>
+  
+<div align="center">
+  <a href="https://github.com/Liillyan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liillyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liillyan&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+ 
