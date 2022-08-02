@@ -4,7 +4,7 @@
 <div style="display: inline_block"><br>
 </div>
 
-<head> <b>Estudante de programação pela {reprograma}, formada em Ciências Contábes, porem em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
+<head> <b>Estudante de programação pela {reprograma}, formada em Ciências Contábeis, porém em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
 <b> </head>
 
 <div style="display: inline_block"><br>
