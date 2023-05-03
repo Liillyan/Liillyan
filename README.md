@@ -4,7 +4,7 @@
 <div style="display: inline_block"><br>
 </div>
 
-<head> <b>Desenvolvedora Back end com node.js fomada pela {reprograma} e estudante no Condominio Digital 4.0 com foco em Python e Java, formada em Ciências Contábeis, porém em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
+<head> <b>Desenvolvedora Back end com node.js fomada pela {reprograma} e estudante no Com.dominio Digital 4.0 com foco em Python e Java, formada em Ciências Contábeis, porém em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
 <b> </head>
 
 <div style="display: inline_block"><br>
