@@ -1,7 +1,9 @@
 
-###  Olá! eu sou Lillyan
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22fef3&height=120&section=header"/>
+<div align="center">
+  <h2> Olá! eu sou Lillyan </h2>
 <div style="display: inline_block"><br>
+</div>
 </div>
 
 <head> <b>Desenvolvedora Back end com node.js fomada pela {reprograma} e estudante no Com.dominio Digital 4.0 com foco em Python e Java, formada em Ciências Contábeis, porém em processo de transição de carreira, nordestina residente em Olinda-PE 💜 
@@ -29,6 +31,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liillyan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liillyan&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+
+
 
 
  
